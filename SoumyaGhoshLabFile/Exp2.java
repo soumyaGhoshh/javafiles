@@ -1,6 +1,6 @@
 //finding factorial of a given number normal method
 
-// package SoumyaGhoshLabFile;
+package SoumyaGhoshLabFile;
 import java.util.Scanner;
 
 public class Exp2 {
